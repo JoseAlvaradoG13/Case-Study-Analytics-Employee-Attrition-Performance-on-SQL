@@ -1,11 +1,12 @@
 # Case-Study-Analytics-Employee-Attrition-Performance-on-SQL
 The HR manager has requested a quick review of this year’s employees, focusing on several key points
 
-Key point to evaluate
+Key points to check 
 ________________________________________________________________________________________________________________________________________________________________
 Employee Engagement and Satisfaction
 
-•	Attrition: Identify employees at risk of leaving.
+•Attrition: Identify employees at risk of leaving.
+
 •	Work Life Balance: Determine if work-life balance issues correlate with overtime, attrition, or job dissatisfaction.
 ________________________________________________________________________________________________________________________________________________________________
 Employee Performance and Compensation
