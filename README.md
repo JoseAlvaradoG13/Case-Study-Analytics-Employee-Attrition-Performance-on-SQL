@@ -7,7 +7,7 @@ Employee Engagement and Satisfaction
 
 •Attrition: Identify employees at risk of leaving.
 
-•	Work Life Balance: Determine if work-life balance issues correlate with overtime, attrition, or job dissatisfaction.
+•	Work Life Balance: Determine if work-life balance issues correlate with overtime or job dissatisfaction.
 ________________________________________________________________________________________________________________________________________________________________
 Employee Performance and Compensation
 
