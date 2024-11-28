@@ -14,16 +14,21 @@ Employee Performance and Compensation
 •	Percent Salary Hike: Review salary increases in relation to performance ratings.
 ________________________________________________________________________________________________________________________________________________________________
 Workforce Distribution and Demographics
+
 •	Gender: Review gender distribution across departments and roles to ensure diversity.
 ________________________________________________________________________________________________________________________________________________________________
 Employee Workload and Tenure
+
 •	Over Time: Identify employees consistently working overtime and assess their workload.
+
 •	Training Times Last Year: Ensure employees, especially those in new roles, receive sufficient training.
 _______________________________________________________________________________________________________________________________________________________________
 Productivity and Logistics
+
 •	Standard Hours: Ensure consistent work hours across roles and departments.
 _______________________________________________________________________________________________________________________________________________________________
 Operational Insights
+
 •	Training Times Last Year: Review the adequacy of training investments and correlate with performance.
 _______________________________________________________________________________________________________________________________________________________________
 
