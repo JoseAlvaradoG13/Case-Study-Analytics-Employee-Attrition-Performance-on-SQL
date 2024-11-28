@@ -5,9 +5,9 @@ Key points to check
 ________________________________________________________________________________________________________________________________________________________________
 Employee Engagement and Satisfaction
 
-•Attrition: Identify employees at risk of leaving.
+•Attrition: Identify employees at risk of leaving. Ready
 
-•	Work Life Balance: Determine if work-life balance issues correlate with overtime or job dissatisfaction.
+•	Work Life Balance: Determine if work-life balance issues correlate with overtime or job dissatisfaction. Ready
 ________________________________________________________________________________________________________________________________________________________________
 Employee Performance and Compensation
 
@@ -15,11 +15,11 @@ Employee Performance and Compensation
 ________________________________________________________________________________________________________________________________________________________________
 Workforce Distribution and Demographics
 
-•	Gender: Review gender distribution across departments and roles to ensure diversity.
+•	Gender: Review gender distribution across departments and roles to ensure diversity. Ready
 ________________________________________________________________________________________________________________________________________________________________
 Productivity and Logistics
 
-•	Standard Hours: Ensure consistent work hours across roles and departments.
+•	Standard Hours: Ensure consistent work hours across roles and departments. Ready
 _______________________________________________________________________________________________________________________________________________________________
 Operational Insights
 
