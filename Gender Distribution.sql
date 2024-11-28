@@ -1,5 +1,5 @@
-#gender distribution across departments and roles
-#Count of gender
+--gender distribution across departments and roles
+--Count of gender
 SELECT
 Gender,
 COUNT(*) AS Count_Gender_Distribution,
@@ -7,9 +7,9 @@ ROUND((COUNT(*) * 100) / (SELECT COUNT(*) FROM employees.hr_employee_attrition w
 FROM employees.hr_employee_attrition
 WHERE Attrition = 'No'
 GROUP BY Gender;
-#The percentage of men in the company exceeds that of women by almost 20%.
+--The percentage of men in the company exceeds that of women by almost 20%.
 
-#Count of gender across departments
+--Count of gender across departments
 SELECT
 Gender,
 Department,
@@ -19,9 +19,9 @@ FROM employees.hr_employee_attrition
 WHERE Attrition = 'No'
 GROUP BY Gender, Department
 ORDER BY Department, '%_Gender_Distribution';
-#The percentage of men in each department exceeds that of women.
+--The percentage of men in each department exceeds that of women.
 
-#Count of gender across Job levels
+--Count of gender across Job levels
 SELECT
 Gender,
 JobLevel,
@@ -31,4 +31,4 @@ FROM employees.hr_employee_attrition
 WHERE Attrition = 'No'
 GROUP BY Gender, JobLevel
 ORDER BY JobLevel;
-#The percentage of men in each job level exceeds that of women, with Level 5 showing the greatest difference.
+--The percentage of men in each job level exceeds that of women, with Level 5 showing the greatest difference.
