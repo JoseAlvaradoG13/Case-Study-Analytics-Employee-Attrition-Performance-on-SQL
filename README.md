@@ -17,12 +17,6 @@ Workforce Distribution and Demographics
 
 •	Gender: Review gender distribution across departments and roles to ensure diversity.
 ________________________________________________________________________________________________________________________________________________________________
-Employee Workload and Tenure
-
-•	Over Time: Identify employees consistently working overtime and assess their workload.
-
-•	Training Times Last Year: Ensure employees, especially those in new roles, receive sufficient training.
-_______________________________________________________________________________________________________________________________________________________________
 Productivity and Logistics
 
 •	Standard Hours: Ensure consistent work hours across roles and departments.
